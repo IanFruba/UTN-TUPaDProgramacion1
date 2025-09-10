@@ -143,7 +143,4 @@ else:
     else:
         print(f"Estás en el hemisferio sur. Es {estacion_sur}.")
 
-        
-        
-        
-        #Ian Ruba DNI: 45768494
+
